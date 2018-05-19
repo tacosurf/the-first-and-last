@@ -1,0 +1,13 @@
+Name;Type;Value
+a;revenue;1000
+b;revenue;900
+c;revenue;800
+d;revenue;700
+a;costs;800
+b;costs;600
+c;costs;500
+d;costs;400
+a;discounts;100
+b;discounts;100
+c;discounts;100
+d;discounts;100
