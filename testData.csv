@@ -11,3 +11,9 @@ a;discounts;100
 b;discounts;100
 c;discounts;100
 d;discounts;100
+e;revenue;1100
+e;costs;900
+e;discounts;100
+f;revenue;1200
+f;costs;800
+f;discounts;200
